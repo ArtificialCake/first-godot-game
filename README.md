@@ -5,7 +5,9 @@
 ![image](https://github.com/user-attachments/assets/4fd19c8b-912b-41c3-8aa1-622537c7ab39)
 
 This is my first 2D pixelated-style-game made in Godot, following a YouTube tutorial from Brackys! 
-It's a very basic game
+The purpose of creating this game was to understand how some basic key principles of game development work, such as:
+World building, NPCs, Player interaction and Dying.
+
 Credit:(https://youtu.be/LOhfqjmasi0?si=W3J1KgSCSWUoFZn4)
 
 -- How to Run
